@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MapComponent.qml</file>
+        <file>MapPlugin.qml</file>
+        <file>Instruments.qml</file>
+        <file>img/ruler/finish.png</file>
+        <file>img/ruler/start.png</file>
+        <file>MapTemplate.qml</file>
+    </qresource>
+</RCC>
